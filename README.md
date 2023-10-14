@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Gümüş</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Javascript,NodeJS,MongoDB**
+- 🌱 I’m currently learning **Swift,Javascript,NodeJS,MongoDB**
 
 - 📫 How to reach me **fatihgumusdesign@gmail.com**
 
